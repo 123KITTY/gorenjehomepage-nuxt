@@ -1,0 +1,26 @@
+{
+  "name": "gorenjechina",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "swiper": "5.2.0",
+    "view-design": "^4.4.0",
+    "vue-awesome-swiper": "^4.1.1"
+  },
+  "devDependencies": {
+    "postcss": "^8.0.0",
+    "postcss-hexrgba": "^2.0.1",
+    "postcss-nested": "^4.0.0",
+    "postcss-responsive-type": "^1.0.0",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.1.0"
+  }
+}
